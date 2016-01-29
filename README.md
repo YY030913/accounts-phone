@@ -1,6 +1,6 @@
 # 使用智验进行账号注册，登陆
 
-这是项目 [helloworld](https://github.com/YY030913/accounts-phone) ，
+这是项目 [accounts-phone](https://github.com/YY030913/accounts-phone) ，
 欢迎访问。
 
 这个项目的版本库是 **Git格式** ，在 Windows、Linux、Mac OS X
@@ -20,3 +20,11 @@
 操作示例：
 
     $ git clone git@github.com:YY030913/accounts-phone.git
+
+## 历史记录
+
+### v 0.0.1
+* 支持+86 中国区短信发送
+* 通过手机号码登陆账号
+* 通过手机号码修改密码
+* 短信发送记录
